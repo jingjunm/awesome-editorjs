@@ -255,6 +255,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md)
 
+* [OddsRabbit] - A community platform for creators - alternative to Reddit and Discord
 * [Newsletter.page](https://newsletter.page) -  A platform for sending email newsletters
 * [IrenSystem](https://irensystem.ru) -  System for business - allows you to work with clients, managers, contractors and suppliers
 * [beemy](https://www.writebeemy.com/) - Dedicated blog builder to better manage content
